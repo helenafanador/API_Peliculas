@@ -9,3 +9,4 @@ Movie.belongsToMany(Genre, { through: "MoviesGenres" });
 
 
 
+
